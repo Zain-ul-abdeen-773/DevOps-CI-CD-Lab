@@ -1,0 +1,10 @@
+#Wordpress
+
+https://hub.docker.com/_/wordpress
+
+
+#Mariadb
+
+https://mariadb.com/docs/server/server-management/automated-mariadb-deployment-and-administration/docker-and-mariadb/mariadb-server-docker-official-image-environment-variable
+
+https://hub.docker.com/_/mariadb
