@@ -10,4 +10,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: cat firstfile.txt
+      - run: python main.py
 ...
